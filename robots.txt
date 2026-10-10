@@ -1,0 +1,33 @@
+# =========================================================
+# GLOBAL WEALTH TERMINAL - SECURE ROBOTS PROTOCOL
+# =========================================================
+
+User-agent: *
+# BLOCK ACCESS TO CORE SYSTEM FOLDERS
+Disallow: /config/
+Disallow: /security/
+Disallow: /PHPMailer/
+Disallow: /vendor/
+
+# BLOCK ACCESS TO SENSITIVE USER PAGES
+Disallow: /user/forgot-password.php
+Disallow: /user/reset-password.php
+Disallow: /user/login.php
+
+# PREVENT GOOGLE FROM INDEXING ASSETS
+User-agent: Googlebot
+Disallow: /user/
+
+# ALLOW ACCESS TO PUBLIC FRONT-END ONLY
+Allow: /index.php
+Allow: /assets/css/
+Allow: /assets/js/
+
+# BLOCK ALL AI SCRAPERS (GPT, CCBot, etc.)
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+
+# CRAWL-DELAY TO PREVENT SERVER OVERLOAD
+Crawl-delay: 10

@@ -1,0 +1,6 @@
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4
+[09-May-2026 16:49:08 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/handlers/passkey_registration_options.php on line 4

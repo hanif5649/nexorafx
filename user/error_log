@@ -1,0 +1,120 @@
+[09-May-2026 10:51:22 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:22 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:22 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:22 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 42
+[09-May-2026 10:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 42
+[09-May-2026 10:51:42 UTC] PHP Warning:  include(/config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:42 UTC] PHP Warning:  include(/config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:42 UTC] PHP Warning:  include(): Failed opening '/config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 2
+[09-May-2026 10:51:42 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 42
+[09-May-2026 10:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 42
+[09-May-2026 10:52:59 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:52:59 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:52:59 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:52:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fortun14/public_html/user/register.php on line 9
+[09-May-2026 10:52:59 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:53:51 UTC] PHP Warning:  include(./config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:53:51 UTC] PHP Warning:  include(./config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:53:51 UTC] PHP Warning:  include(): Failed opening './config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:53:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fortun14/public_html/user/register.php on line 9
+[09-May-2026 10:53:51 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:53:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:54:19 UTC] PHP Warning:  include(/config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:19 UTC] PHP Warning:  include(/config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:19 UTC] PHP Warning:  include(): Failed opening '/config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fortun14/public_html/user/register.php on line 9
+[09-May-2026 10:54:19 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:54:39 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:39 UTC] PHP Warning:  include(config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:39 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/register.php on line 8
+[09-May-2026 10:54:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fortun14/public_html/user/register.php on line 9
+[09-May-2026 10:54:39 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/register.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 48
+[09-May-2026 10:58:24 UTC] could not find driver
+[09-May-2026 10:58:46 UTC] could not find driver
+[09-May-2026 11:02:54 UTC] could not find driver
+[09-May-2026 11:03:10 UTC] could not find driver
+[09-May-2026 12:29:35 UTC] PHP Warning:  Undefined variable $site_address in /home/fortun14/public_html/user/register.php on line 136
+[09-May-2026 12:29:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fortun14/public_html/user/register.php on line 136
+[09-May-2026 12:31:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fortun14_data.settings' doesn't exist in /home/fortun14/public_html/user/register.php:75
+Stack trace:
+#0 /home/fortun14/public_html/user/register.php(75): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/fortun14/public_html/user/register.php on line 75
+[09-May-2026 12:42:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fortun14_data.settings' doesn't exist in /home/fortun14/public_html/user/pin.php:39
+Stack trace:
+#0 /home/fortun14/public_html/user/pin.php(39): PDO->query('SELECT site_nam...')
+#1 {main}
+  thrown in /home/fortun14/public_html/user/pin.php on line 39
+[09-May-2026 13:02:52 UTC] PHP Warning:  Undefined variable $conn in /home/fortun14/public_html/user/layout/header.php on line 12
+[09-May-2026 13:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fortun14/public_html/user/layout/header.php:12
+Stack trace:
+#0 /home/fortun14/public_html/user/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/fortun14/public_html/user/layout/header.php on line 12
+[09-May-2026 13:05:41 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/fortun14/public_html/user/dashboard.php on line 167
+[09-May-2026 13:07:55 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/fortun14/public_html/user/dashboard.php on line 171
+[09-May-2026 13:08:03 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/fortun14/public_html/user/dashboard.php on line 171
+[09-May-2026 16:14:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.name' in 'SELECT' in /home/fortun14/public_html/user/running_investments.php:7
+Stack trace:
+#0 /home/fortun14/public_html/user/running_investments.php(7): PDO->prepare('\r\n    SELECT i....')
+#1 {main}
+  thrown in /home/fortun14/public_html/user/running_investments.php on line 7
+[09-May-2026 17:36:38 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 6
+[09-May-2026 17:36:38 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 6
+[09-May-2026 17:36:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/forgot-password.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/forgot-password.php on line 6
+[09-May-2026 17:38:54 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 7
+[09-May-2026 17:38:54 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 7
+[09-May-2026 17:38:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/forgot-password.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/forgot-password.php on line 7
+[09-May-2026 17:40:56 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 17:40:56 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 17:40:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/forgot-password.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 19:26:46 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 19:26:46 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 19:26:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/forgot-password.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 22:09:39 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 22:09:39 UTC] PHP Warning:  require(../PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/user/forgot-password.php on line 13
+[09-May-2026 22:09:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/user/forgot-password.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/user/forgot-password.php on line 13
+[19-Jun-2026 21:34:12 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:47:19 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:48:03 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:52:20 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:56:41 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:57:19 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:57:40 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76
+[19-Jun-2026 21:59:23 UTC] PHP Warning:  Undefined variable $error in /home/atpticu/nexora.at-pt.icu/user/login.php on line 76

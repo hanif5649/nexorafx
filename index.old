@@ -1,0 +1,353 @@
+<?php include('layout/header.php'); ?>
+
+<!-- HERO SECTION -->
+<section class="relative min-h-screen bg-white overflow-hidden flex items-center pt-20">
+
+    <div class="absolute top-0 right-0 w-1/2 h-full bg-slate-light -skew-x-12 translate-x-32"></div>
+
+    <div class="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center relative z-10">
+
+        <!-- LEFT -->
+        <div>
+
+            <div class="inline-flex items-center gap-3 bg-golf-green/10 px-4 py-2 rounded-full mb-8">
+                <span class="w-2 h-2 bg-golf-green rounded-full animate-pulse"></span>
+                <span class="text-[10px] font-black uppercase tracking-[0.2em] text-golf-green">
+                    Regulated Global Asset Management
+                </span>
+            </div>
+
+            <h1 class="font-syne text-6xl lg:text-7xl font-bold tracking-tighter leading-[0.95] text-navy-dark mb-6">
+                Building <br>
+                Generational <span class="text-golf-green italic">Wealth.</span>
+            </h1>
+
+            <p class="text-slate-500 text-lg leading-relaxed max-w-xl mb-10">
+                We combine institutional-grade portfolio management, agriculture investments,
+                digital assets, and advanced market strategies to create sustainable wealth.
+            </p>
+
+            <div class="flex gap-4 flex-wrap">
+
+                <a href="register.php"
+                   class="bg-navy-dark text-white px-8 py-5 rounded-xl font-bold uppercase text-xs tracking-widest hover:bg-golf-green transition">
+                    Start Investing
+                </a>
+
+                <a href="services.php"
+                   class="border border-slate-300 px-8 py-5 rounded-xl font-bold uppercase text-xs tracking-widest hover:bg-slate-100 transition">
+                    Explore Services
+                </a>
+
+            </div>
+
+        </div>
+
+        <!-- RIGHT -->
+        <div class="relative">
+
+            <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=1000"
+                 class="rounded-[3rem] h-[650px] w-full object-cover shadow-2xl">
+
+            <div class="absolute bottom-8 left-8 bg-white p-6 rounded-3xl shadow-xl">
+                <p class="text-slate-400 text-xs font-bold uppercase mb-1">
+                    Assets Managed
+                </p>
+                <h3 class="font-syne text-4xl font-bold text-navy-dark">
+                    $4.8B+
+                </h3>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- TRUST -->
+<section class="py-16 border-y bg-white">
+
+    <div class="max-w-7xl mx-auto px-6">
+
+        <div class="grid md:grid-cols-4 gap-8 text-center">
+
+            <div>
+                <h3 class="font-syne text-4xl font-bold text-golf-green">15+</h3>
+                <p class="text-slate-500">Years Experience</p>
+            </div>
+
+            <div>
+                <h3 class="font-syne text-4xl font-bold text-golf-green">12K+</h3>
+                <p class="text-slate-500">Global Clients</p>
+            </div>
+
+            <div>
+                <h3 class="font-syne text-4xl font-bold text-golf-green">98%</h3>
+                <p class="text-slate-500">Retention Rate</p>
+            </div>
+
+            <div>
+                <h3 class="font-syne text-4xl font-bold text-golf-green">40+</h3>
+                <p class="text-slate-500">Markets Accessed</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- PLANS -->
+<section class="py-32 bg-slate-light">
+
+    <div class="max-w-7xl mx-auto px-6">
+
+        <div class="text-center mb-20">
+            <h4 class="text-golf-green font-black uppercase tracking-[0.4em] text-xs mb-4">
+                Investment Plans
+            </h4>
+            <h2 class="font-syne text-5xl font-bold text-navy-dark">
+                Choose Your Growth Strategy
+            </h2>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+
+            <!-- STARTER -->
+            <div class="bg-white rounded-3xl p-10 shadow-lg">
+
+                <i class="fa-solid fa-seedling text-4xl text-golf-green mb-8"></i>
+
+                <h3 class="text-2xl font-bold mb-3">Starter Equity</h3>
+
+                <p class="text-slate-500 mb-8">
+                    Designed for emerging investors.
+                </p>
+
+                <div class="space-y-4 mb-10">
+
+                    <div class="flex justify-between">
+                        <span>Returns</span>
+                        <span class="font-bold">2%</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Duration</span>
+                        <span class="font-bold">30 Days</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Minimum</span>
+                        <span class="font-bold text-golf-green">$500</span>
+                    </div>
+
+                </div>
+
+                <a href="register.php"
+                   class="block text-center bg-navy-dark text-white py-4 rounded-xl font-bold">
+                    Select Plan
+                </a>
+
+            </div>
+
+
+            <!-- PRIME -->
+            <div class="bg-navy-dark rounded-3xl p-10 shadow-2xl scale-105 text-white relative">
+
+                <div class="absolute top-0 right-0 bg-golf-green px-5 py-2 rounded-bl-2xl text-navy-dark text-xs font-bold">
+                    POPULAR
+                </div>
+
+                <i class="fa-solid fa-crown text-4xl text-golf-green mb-8"></i>
+
+                <h3 class="text-2xl font-bold mb-3">Prime Alpha</h3>
+
+                <p class="text-slate-400 mb-8">
+                    For serious wealth builders.
+                </p>
+
+                <div class="space-y-4 mb-10">
+
+                    <div class="flex justify-between">
+                        <span>Returns</span>
+                        <span class="font-bold">4%</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Duration</span>
+                        <span class="font-bold">90 Days</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Minimum</span>
+                        <span class="font-bold text-golf-green">$10,000</span>
+                    </div>
+
+                </div>
+
+                <a href="register.php"
+                   class="block text-center bg-golf-green text-navy-dark py-4 rounded-xl font-bold">
+                    Select Plan
+                </a>
+
+            </div>
+
+
+            <!-- LEGACY -->
+            <div class="bg-white rounded-3xl p-10 shadow-lg">
+
+                <i class="fa-solid fa-building-columns text-4xl text-golf-green mb-8"></i>
+
+                <h3 class="text-2xl font-bold mb-3">Legacy Wealth</h3>
+
+                <p class="text-slate-500 mb-8">
+                    Institutional and family office portfolios.
+                </p>
+
+                <div class="space-y-4 mb-10">
+
+                    <div class="flex justify-between">
+                        <span>Returns</span>
+                        <span class="font-bold">Custom</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Duration</span>
+                        <span class="font-bold">Annual</span>
+                    </div>
+
+                    <div class="flex justify-between">
+                        <span>Minimum</span>
+                        <span class="font-bold text-golf-green">$100,000</span>
+                    </div>
+
+                </div>
+
+                <a href="#"
+                   class="block text-center bg-navy-dark text-white py-4 rounded-xl font-bold">
+                    Contact Advisor
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- TEAM -->
+<section class="py-32 bg-white">
+
+    <div class="max-w-7xl mx-auto px-6">
+
+        <div class="text-center mb-20">
+            <h2 class="font-syne text-5xl font-bold text-navy-dark">
+                Meet Our Experts
+            </h2>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+
+            <div class="text-center">
+                <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=700"
+                     class="rounded-3xl h-[420px] w-full object-cover mb-6">
+                <h3 class="font-bold text-xl">Michael Anderson</h3>
+                <p class="text-slate-500">Chief Investment Officer</p>
+            </div>
+
+            <div class="text-center">
+                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=700"
+                     class="rounded-3xl h-[420px] w-full object-cover mb-6">
+                <h3 class="font-bold text-xl">Sarah Mitchell</h3>
+                <p class="text-slate-500">Portfolio Strategist</p>
+            </div>
+
+            <div class="text-center">
+                <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=700"
+                     class="rounded-3xl h-[420px] w-full object-cover mb-6">
+                <h3 class="font-bold text-xl">David Collins</h3>
+                <p class="text-slate-500">Risk Analyst</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- TESTIMONIAL -->
+<section class="py-32 bg-navy-dark text-center text-white">
+
+    <div class="max-w-4xl mx-auto px-6">
+
+        <p class="text-3xl font-syne leading-relaxed">
+            “Their strategies transformed our investment approach.
+            We’ve seen stable growth, transparency, and real results.”
+        </p>
+
+        <p class="text-slate-400 mt-8">
+            — Institutional Client
+        </p>
+
+    </div>
+
+</section>
+
+
+<!-- FAQ -->
+<section class="py-32 bg-white">
+
+    <div class="max-w-4xl mx-auto px-6">
+
+        <h2 class="font-syne text-5xl text-center font-bold mb-16">
+            Frequently Asked Questions
+        </h2>
+
+        <div class="space-y-6">
+
+            <div class="border rounded-2xl p-6">
+                <h3 class="font-bold mb-2">How quickly can I start?</h3>
+                <p class="text-slate-500">Account activation takes less than 24 hours.</p>
+            </div>
+
+            <div class="border rounded-2xl p-6">
+                <h3 class="font-bold mb-2">Are withdrawals supported?</h3>
+                <p class="text-slate-500">Yes, based on selected portfolio terms.</p>
+            </div>
+
+            <div class="border rounded-2xl p-6">
+                <h3 class="font-bold mb-2">Are my funds protected?</h3>
+                <p class="text-slate-500">We apply institutional-grade compliance systems.</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- CTA -->
+<section class="py-24 bg-golf-green text-center">
+
+    <div class="max-w-4xl mx-auto px-6">
+
+        <h2 class="font-syne text-5xl font-bold text-navy-dark mb-6">
+            Start Building Wealth Today
+        </h2>
+
+        <a href="register.php"
+           class="inline-block bg-navy-dark text-white px-10 py-5 rounded-xl font-bold uppercase text-sm">
+            Open Investment Account
+        </a>
+
+    </div>
+
+</section>
+
+<?php include('layout/footer.php'); ?>
