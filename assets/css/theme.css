@@ -1,0 +1,100 @@
+/* ===========================
+   NEXORA GLOBAL THEME
+=========================== */
+
+:root{
+
+    --primary:#0F172A;
+    --secondary:#1E293B;
+    --card:#263449;
+    --accent:#2ECC71;
+
+    --text:#FFFFFF;
+    --text-light:#CBD5E1;
+
+    --border:#334155;
+
+}
+
+/* BODY */
+
+body{
+
+    background:var(--primary);
+    color:var(--text);
+
+}
+
+/* Sections */
+
+.section-dark{
+
+    background:var(--primary);
+
+}
+
+.section-light{
+
+    background:var(--secondary);
+
+}
+
+/* Cards */
+
+.card{
+
+    background:var(--card);
+    border:1px solid var(--border);
+    color:white;
+
+}
+
+/* Inputs */
+
+input,
+textarea,
+select{
+
+    background:#162032 !important;
+    color:white !important;
+
+    border:1px solid var(--border) !important;
+
+}
+
+input::placeholder,
+textarea::placeholder{
+
+    color:#94A3B8;
+
+}
+
+/* Buttons */
+
+.btn-primary{
+
+    background:var(--accent);
+    color:white;
+
+}
+
+.btn-dark{
+
+    background:var(--primary);
+    color:white;
+
+}
+
+/* Text */
+
+.text-main{
+
+    color:white;
+
+}
+
+.text-muted{
+
+    color:#CBD5E1;
+
+}

@@ -1,0 +1,51 @@
+[08-May-2026 12:19:29 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 12:19:29 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 12:19:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 13:03:37 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:03:37 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:03:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 13:03:41 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:03:41 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:03:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 13:58:50 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:58:50 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 13:58:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 14:58:03 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 14:58:03 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 14:58:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 15:58:51 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 15:58:51 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 1
+[08-May-2026 15:58:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/fortun14/public_html/admin/layout/header.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fortun14/public_html/admin/layout/header.php on line 7
+[08-May-2026 16:58:43 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 16:58:43 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 18:00:21 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 18:00:21 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 19:04:46 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 19:04:46 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 20:01:43 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 20:01:43 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 21:01:16 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 21:01:16 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 21:26:27 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[08-May-2026 21:26:27 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
+[09-May-2026 23:50:23 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[09-May-2026 23:50:23 UTC] PHP Warning:  include(../config/config.php): Failed to open stream: No such file or directory in /home/fortun14/public_html/admin/layout/header.php on line 2
+[09-May-2026 23:50:23 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/fortun14/public_html/admin/layout/header.php on line 2
